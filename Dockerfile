@@ -5,9 +5,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends --no-install-su
 	postfix-pgsql \
 	postfix-pcre \
 	bash \
-	bind-tools \
 	ca-certificates \
-	libcurl \
 	logrotate \
 	supervisor \
 	tzdata
